@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "email": "jose@mail.com",
+      "password": "$2a$10$MiKYG/1erYBpuOzyYRrKSeD08T2OGXC7cYi1eX4MTW5wj9Etcd8M6",
+      "username": "jose",
+      "imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fpt-br%2Fprocurar%2Fpessoa%2F&psig=AOvVaw2EYPW7T2rhBREON5pPYdZq&ust=1672928244358000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjk372NrvwCFQAAAAAdAAAAABAE",
+      "id": 1
+    },
+    {
+      "email": "joao@mail.com",
+      "password": "$2a$10$kQ6UEM4hXBmwv5Liu8.ZEuH8ipWnPqKJerW4RT9jUtbJpUuKUTKHm",
+      "username": "joao",
+      "imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.depositphotos.com%2Fstock-photos%2Falgu%25C3%25A9m.html&psig=AOvVaw2EYPW7T2rhBREON5pPYdZq&ust=1672928244358000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjk372NrvwCFQAAAAAdAAAAABAI",
+      "id": 2
+    }
+  ],
+  "recipes": [
+    {
+      "recipeName": "Lasanha",
+      "category": "Massas",
+      "ingredients": [
+        {
+          "ingredientName": "batata",
+          "qty": "200g",
+          "unity": "2"
+        }
+      ],
+      "prepTime": "1 hora e 25 minutos",
+      "portions": 2,
+      "description": "Blablo blablo",
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
