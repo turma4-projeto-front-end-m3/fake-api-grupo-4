@@ -14,9 +14,15 @@ POST /login
 Campos obrigatórios: email e password.
 Endpoint pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
 
+### All Users
+
+GET /users
+
+Endpoint usado para fazer autenticação de rotas, necessita autenticação atravéz de um token
+
 ### Profile
 
-GET /user/id
+GET /users/id
 
 Endpoint usado para buscar informações de um usuário especifico e suas receitas, necessita autenticação através de um token
 
