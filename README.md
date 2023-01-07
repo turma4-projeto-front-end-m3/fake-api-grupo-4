@@ -11,7 +11,7 @@ Endpoint usado para cadastro de novos usuários
 
 Formato da resposta - STATUS 201 CREATED
 
-[!](https://drive.google.com/file/d/1DXd4wDXlTV0hkcs5ZX9ngIWG5_dqaljJ/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1DXd4wDXlTV0hkcs5ZX9ngIWG5_dqaljJ/view?usp=sharing)
 
 ### Login
 
