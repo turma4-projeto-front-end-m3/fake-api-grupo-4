@@ -11,15 +11,7 @@ Endpoint usado para cadastro de novos usuários
 
 Formato da resposta - STATUS 201 CREATED
 
-{
-"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImpvYW9AbWFpbC5jb20iLCJpYXQiOjE2NzI4NDIxNjQsImV4cCI6MTY3Mjg0NTc2NCwic3ViIjoiMiJ9.Paz2qeBwuuDMvhuNU1DeutwVcU_4z68Yw9Q-wiVLQ4c",
-"user": {
-"email": "joao@mail.com",
-"username": "joao",
-"imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.depositphotos.com%2Fstock-photos%2Falgu%25C3%25A9m.html&psig=AOvVaw2EYPW7T2rhBREON5pPYdZq&ust=1672928244358000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjk372NrvwCFQAAAAAdAAAAABAI",
-"id": 2
-}
-}
+https://drive.google.com/file/d/1DXd4wDXlTV0hkcs5ZX9ngIWG5_dqaljJ/view?usp=sharing
 
 ### Login
 
@@ -30,15 +22,7 @@ Endpoint pode ser usado para realizar login com um dos usuários cadastrados na 
 
 Formato da resposta - STATUS 200 OK
 
-{
-"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImpvYW9AbWFpbC5jb20iLCJpYXQiOjE2NzMxMDY5OTksImV4cCI6MTY3MzExMDU5OSwic3ViIjoiMiJ9.DCge0tXAdmD1MmQlco-TkdTYixcZLdJzrfHDiDzcFu0",
-"user": {
-"email": "joao@mail.com",
-"username": "joao",
-"imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.depositphotos.com%2Fstock-photos%2Falgu%25C3%25A9m.html&psig=AOvVaw2EYPW7T2rhBREON5pPYdZq&ust=1672928244358000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjk372NrvwCFQAAAAAdAAAAABAI",
-"id": 2
-}
-}
+https://drive.google.com/file/d/1V8aB1Kp-EcfJ_yKMef_eJTR6W4qiCEGD/view?usp=sharing
 
 ### All Users
 
@@ -48,22 +32,7 @@ Endpoint usado para fazer autenticação de rotas, necessita autenticação atra
 
 Formato da resposta - STATUS 200 OK
 
-[
-{
-"email": "jose@mail.com",
-"password": "$2a$10$MiKYG/1erYBpuOzyYRrKSeD08T2OGXC7cYi1eX4MTW5wj9Etcd8M6",
-"username": "jose",
-"imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fpt-br%2Fprocurar%2Fpessoa%2F&psig=AOvVaw2EYPW7T2rhBREON5pPYdZq&ust=1672928244358000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjk372NrvwCFQAAAAAdAAAAABAE",
-"id": 1
-},
-{
-"email": "joao@mail.com",
-"password": "$2a$10$kQ6UEM4hXBmwv5Liu8.ZEuH8ipWnPqKJerW4RT9jUtbJpUuKUTKHm",
-"username": "joao",
-"imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.depositphotos.com%2Fstock-photos%2Falgu%25C3%25A9m.html&psig=AOvVaw2EYPW7T2rhBREON5pPYdZq&ust=1672928244358000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjk372NrvwCFQAAAAAdAAAAABAI",
-"id": 2
-}
-]
+https://drive.google.com/file/d/1y65-783NGnjOvJuqYvwA3H2zhLDU0edj/view?usp=sharing
 
 ### Profile
 
@@ -73,14 +42,7 @@ Endpoint usado para buscar informações de um usuário especifico e suas receit
 
 Formato da resposta - STATUS 200 OK
 
-{
-"email": "joao@mail.com",
-"password": "$2a$10$kQ6UEM4hXBmwv5Liu8.ZEuH8ipWnPqKJerW4RT9jUtbJpUuKUTKHm",
-"username": "joao",
-"imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.depositphotos.com%2Fstock-photos%2Falgu%25C3%25A9m.html&psig=AOvVaw2EYPW7T2rhBREON5pPYdZq&ust=1672928244358000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjk372NrvwCFQAAAAAdAAAAABAI",
-"id": 2,
-"recipes": []
-}
+https://drive.google.com/file/d/1SlMWNeraUniGkjscpIZJR0ox3PKA8VV6/view?usp=sharing
 
 ### Register Recipe
 
@@ -90,22 +52,17 @@ Endpoint usado para cadastrar uma nova receita de um usuário específico, neces
 
 Formato da resposta - STATUS 201 CREATED
 
-{
-"recipeName": "Lasanha",
-"category": "Massas",
-"ingredients": [
-{
-"ingredientName": "tomate",
-"qty": "300g",
-"unity": "2"
-}
-],
-"prepTime": "1 hora e 20 minutos",
-"portions": 2,
-"description": "adicione farinha...",
-"userId": 1,
-"id": 1
-}
+https://drive.google.com/file/d/1f5WNLvkxyl5Lrlkgkfba8Va3u9Jn3Wf9/view?usp=sharing
+
+### Edit Recipe
+
+PATCH /recipes/recipeId
+
+Endpoit usado para editar a receita de um usuário específico, necessita autenticação através de um token
+
+Formato da resposta - STATUS 200 OK
+
+https://drive.google.com/file/d/1ZKw7NHUVuwhVbzrIlVShPo0WuCf137cV/view?usp=sharing
 
 ### All Recipes
 
@@ -115,24 +72,7 @@ Endpoint usado para buscar todas as receitas sem necessidade de autenticação a
 
 Formato da resposta - STATUS 200 OK
 
-[
-{
-"recipeName": "Lasanha",
-"category": "Massas",
-"ingredients": [
-{
-"ingredientName": "batata",
-"qty": "200g",
-"unity": "2"
-}
-],
-"prepTime": "1 hora e 25 minutos",
-"portions": 2,
-"description": "Blablo blablo",
-"userId": 1,
-"id": 1
-}
-]
+https://drive.google.com/file/d/1XA3e5lW0kfq4MKd9gbEdXxnrToda2o7h/view?usp=sharing
 
 ### Delete Recipe
 

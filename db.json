@@ -15,5 +15,22 @@
       "id": 2
     }
   ],
-  "recipes": []
+  "recipes": [
+    {
+      "recipeName": "Lasanha",
+      "category": "Massas",
+      "ingredients": [
+        {
+          "ingredientName": "batata",
+          "qty": "200g",
+          "unity": "2"
+        }
+      ],
+      "prepTime": "1 hora e 25 minutos",
+      "portions": 2,
+      "description": "Blablablabla blablabla",
+      "userId": 1,
+      "id": 1
+    }
+  ]
 }
