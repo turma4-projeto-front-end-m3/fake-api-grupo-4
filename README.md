@@ -1,3 +1,5 @@
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=fake-api-grupo-4&uri=https%3A%2F%2Ffake-api-grupo-4.onrender.com)
+
 MyRecipes FakeApi - Funcionalidades:
 
 ### Register
