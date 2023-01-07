@@ -11,7 +11,7 @@ Endpoint usado para cadastro de novos usuários
 
 Formato da resposta - STATUS 201 CREATED
 
-https://drive.google.com/file/d/1DXd4wDXlTV0hkcs5ZX9ngIWG5_dqaljJ/view?usp=sharing
+(https://drive.google.com/file/d/1DXd4wDXlTV0hkcs5ZX9ngIWG5_dqaljJ/view?usp=sharing)
 
 ### Login
 
@@ -22,7 +22,7 @@ Endpoint pode ser usado para realizar login com um dos usuários cadastrados na 
 
 Formato da resposta - STATUS 200 OK
 
-https://drive.google.com/file/d/1V8aB1Kp-EcfJ_yKMef_eJTR6W4qiCEGD/view?usp=sharing
+(https://drive.google.com/file/d/1V8aB1Kp-EcfJ_yKMef_eJTR6W4qiCEGD/view?usp=sharing)
 
 ### All Users
 
@@ -32,7 +32,7 @@ Endpoint usado para fazer autenticação de rotas, necessita autenticação atra
 
 Formato da resposta - STATUS 200 OK
 
-https://drive.google.com/file/d/1y65-783NGnjOvJuqYvwA3H2zhLDU0edj/view?usp=sharing
+(https://drive.google.com/file/d/1y65-783NGnjOvJuqYvwA3H2zhLDU0edj/view?usp=sharing)
 
 ### Profile
 
@@ -42,7 +42,7 @@ Endpoint usado para buscar informações de um usuário especifico e suas receit
 
 Formato da resposta - STATUS 200 OK
 
-https://drive.google.com/file/d/1SlMWNeraUniGkjscpIZJR0ox3PKA8VV6/view?usp=sharing
+(https://drive.google.com/file/d/1SlMWNeraUniGkjscpIZJR0ox3PKA8VV6/view?usp=sharing)
 
 ### Register Recipe
 
@@ -52,7 +52,7 @@ Endpoint usado para cadastrar uma nova receita de um usuário específico, neces
 
 Formato da resposta - STATUS 201 CREATED
 
-https://drive.google.com/file/d/1f5WNLvkxyl5Lrlkgkfba8Va3u9Jn3Wf9/view?usp=sharing
+(https://drive.google.com/file/d/1f5WNLvkxyl5Lrlkgkfba8Va3u9Jn3Wf9/view?usp=sharing)
 
 ### Edit Recipe
 
@@ -62,7 +62,7 @@ Endpoit usado para editar a receita de um usuário específico, necessita autent
 
 Formato da resposta - STATUS 200 OK
 
-https://drive.google.com/file/d/1ZKw7NHUVuwhVbzrIlVShPo0WuCf137cV/view?usp=sharing
+(https://drive.google.com/file/d/1ZKw7NHUVuwhVbzrIlVShPo0WuCf137cV/view?usp=sharing)
 
 ### All Recipes
 
@@ -72,7 +72,7 @@ Endpoint usado para buscar todas as receitas sem necessidade de autenticação a
 
 Formato da resposta - STATUS 200 OK
 
-https://drive.google.com/file/d/1XA3e5lW0kfq4MKd9gbEdXxnrToda2o7h/view?usp=sharing
+(https://drive.google.com/file/d/1XA3e5lW0kfq4MKd9gbEdXxnrToda2o7h/view?usp=sharing)
 
 ### Delete Recipe
 
