@@ -31,6 +31,22 @@
       "description": "Blablablabla blablabla",
       "userId": 1,
       "id": 1
+    },
+    {
+      "recipeName": "Lasanha",
+      "category": "Massas",
+      "ingredients": [
+        {
+          "ingredientName": "tomate",
+          "qty": "300g",
+          "unity": "2"
+        }
+      ],
+      "prepTime": "1 hora e 20 minutos",
+      "portions": 2,
+      "description": "Blabla blabla",
+      "userId": 1,
+      "id": 2
     }
   ]
 }
