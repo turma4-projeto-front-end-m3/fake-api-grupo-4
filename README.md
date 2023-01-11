@@ -1,4 +1,4 @@
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=fake-api-grupo-4&uri=https%3A%2F%2Ffake-api-grupo-4.onrender.com)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=fakeApi-grupo-4&uri=https%3A%2F%2Fgithub.com%2Fturma4-projeto-front-end-m3%2Ffake-api-grupo-4%2Fblob%2Fmain%2FfakeApi-grupo4.json)
 
 MyRecipes FakeApi - Funcionalidades:
 
